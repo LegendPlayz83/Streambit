@@ -1,8 +1,8 @@
 <h1>Journal</h1>
-Title: "StreamBit"
-Author: "Aditya Roy(U04AKUFC402)"
-Description: "A 65% Keyboard made from scratch"
-Created On: "15/8/2025"
+Title: "StreamBit"<br>
+Author: "Aditya Roy(U04AKUFC402)"<br>
+Description: "A 65% Keyboard made from scratch"<br>
+Created On: "15/8/2025"<br>
 
 
 
