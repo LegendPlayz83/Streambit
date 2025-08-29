@@ -1,4 +1,12 @@
 <h1>Journal</h1>
+Title: "StreamBit"
+Author: "Aditya Roy(U04AKUFC402)"
+Description: "A 65% Keyboard made from scratch"
+Created On: "15/8/2025"
+
+
+
+
 I started from a layout for the keyboard, looking at designs like 100%, 85%, 70%, 65% and 65% looked the best to me.<br>
 So, with some guides, I started with the schematic in KiCad 9.0.<br><br>
 
