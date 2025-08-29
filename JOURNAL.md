@@ -28,8 +28,8 @@ Routing progress
 Final Routed PCB<br>
 <h6>Added Silkscreen also!</h6>
 <img width="1098" height="496" alt="done" src="https://github.com/user-attachments/assets/2aa1ff19-589c-4523-88b2-334defa610fd" />
-Time spent: 3hr 15mins<br>
-<b>**Total time: 6hours**</b>
+Time spent: 4hr 15mins<br>
+<b>**Total time: 7hours**</b>
 
 
 <h2>Case Designing Time!</h2>
@@ -49,10 +49,16 @@ Video:<br>
 https://github.com/user-attachments/assets/81f87b0e-f5fe-4575-91ca-c8a29a3c5382
 
 
+<h3>Branding the Case!</h3><br>
+<img width="1470" height="956" alt="Screenshot 2025-07-29 at 6 12 16 PM" src="https://github.com/user-attachments/assets/88d16f1a-feae-4cc4-9736-74f173f7306c" />
 
+<h2>Case is Done!</h2><br>
+<img width="1470" height="801" alt="Screenshot 2025-08-25 at 7 02 32 PM" src="https://github.com/user-attachments/assets/8b99cef6-925a-4ce8-b044-ac44f3446ba1" />
+Time taken: 3hours
+<b>**Total time: 10 hours**</b>
 
-
-
+<h5>Gotta assemble everything now</h5><br>
+<img width="1470" height="801" alt="Screenshot 2025-08-26 at 4 48 28 PM" src="https://github.com/user-attachments/assets/a7c23d15-0fe9-4a22-92d0-2fc387948749" />
 
 
 
