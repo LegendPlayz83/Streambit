@@ -1,5 +1,5 @@
 <h1>Journal</h1>
-Title: "StreamBit"<br>
+Title: "Streambit"<br>
 Author: "Aditya Roy(U04AKUFC402)"<br>
 Description: "A 65% Keyboard made from scratch"<br>
 Created On: "15/8/2025"<br>
