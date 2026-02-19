@@ -10,7 +10,7 @@ This is my 65% Keyboard, which I made from scratch with some help. It is named S
 I've always wanted to build a keyboard, and Grounded gave me the perfect opportunity to turn this into reality.
 
 # Challenges
-This was the first time using some new libraries. Although I did run into some issues, the issues were resolved on the channel <a href="hackclub.slack.com/archives/C0948RT0C1M">Grounded</a>.
+This was the first time using some new libraries. There were not many big issues, just usage problems which were resolved on Slack <a href="hackclub.slack.com/archives/C0948RT0C1M">Grounded</a>.
 
 # Specifications
 
