@@ -33,7 +33,7 @@ It was sad getting your keyboard rejected. The spirit of getting it approved on 
 | **Case (From printing-legion)** | 1 | $5.00 | $5.00 |
 ---
 
-**Grand Total: $139.54**<br>
+**Grand Total: $147.13**<br>
 Others:
 <ul>
 <li>KMK Firmware
