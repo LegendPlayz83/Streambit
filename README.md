@@ -1,7 +1,7 @@
 # Streambit
 
 This is my 65% Keyboard, which I made from scratch with some help. It is named Streambit
-<img width="1470" height="801" alt="Screenshot 2025-08-26 at 4 48 28 PM" src="https://github.com/user-attachments/assets/56fe94d8-ea19-4494-9f2d-2bef004ca189" />
+<img width="1441" height="670" alt="Full-assembled" src="https://github.com/user-attachments/assets/6d73aa38-dd77-4b62-8312-c9b1ff60dcc2" />
 
 <br>
 A special thanks to Kai, Anay, Mohid, and Souptik, and a big thanks to Alex, who is helping me improve my projects. 💓
@@ -46,11 +46,13 @@ Others:
 
 
 <h3>PCB</h3>
-<img width="1098" height="496" alt="Screenshot 2025-07-29 at 5 39 47 PM" src="https://github.com/user-attachments/assets/48ca835b-f74f-4896-9ab2-f480bcc6dd04" />
+<img width="1162" height="533" alt="pcb" src="https://github.com/user-attachments/assets/2743cbf1-f88a-4b87-a154-94feddb916e2" />
+
+
+<h3>PCB in 3D view</h3>
+<img width="1055" height="448" alt="3d view" src="https://github.com/user-attachments/assets/f04ccf94-6cc6-4eb0-a559-eaf95653dd41" />
 
 
 
 <h3>Case</h3>
-<img width="1470" height="801" alt="Screenshot 2025-08-25 at 7 02 32 PM" src="https://github.com/user-attachments/assets/1ef6ec04-b018-409a-847c-5cb6e0364abe" />
-<br>
-<img width="1052" height="614" alt="Screenshot 2026-01-20 at 8 46 01 PM" src="https://github.com/user-attachments/assets/6cc41e9e-7c30-4a11-858c-e8c69f87e3cc" />
+<img width="1426" height="686" alt="case" src="https://github.com/user-attachments/assets/44d2e0c7-6811-4f62-84c3-ab599bbe471c" />
