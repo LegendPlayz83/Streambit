@@ -1,6 +1,11 @@
 # Streambit
 
-This is my 65% Keyboard, which I made from scratch with some help. It is named Streambit
+This is my 65% Keyboard, which I made from scratch with some help. It is named Streambit.<br>
+
+Physical view:
+![streambit-full](https://github.com/user-attachments/assets/16c65d54-3c5b-4a79-b7e2-c04124f91a29)
+
+Online view:
 <img width="1441" height="670" alt="Full-assembled" src="https://github.com/user-attachments/assets/6d73aa38-dd77-4b62-8312-c9b1ff60dcc2" />
 
 <br>
@@ -56,3 +61,4 @@ Others:
 
 <h3>Case</h3>
 <img width="1426" height="686" alt="case" src="https://github.com/user-attachments/assets/44d2e0c7-6811-4f62-84c3-ab599bbe471c" />
+psst: two keys were placed wrongly dont mind :)
