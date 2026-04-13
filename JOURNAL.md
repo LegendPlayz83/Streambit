@@ -99,3 +99,10 @@ Final look:<br>
 <img src="https://cdn.hackclub.com/019d866c-2644-78a7-a38d-62bfbb2eeee1/IMG_20260413_160743.jpg">
 Time taken: 0.5 hours
 <b>Total time: 17 hours</b>
+
+<h3>Firmware time!!!</h3>
+After being done with the soldering and things, I now had to upload the code to the Pico. I made many versions of the code coz the keys acted weird, rows and columns were wrongly arranged, and there were many bugs with the code.
+<img width="1398" height="406" alt="image" src="https://github.com/user-attachments/assets/361b628d-2540-4041-ab4a-85933e0df902" />
+
+Time taken: 6 hours
+<b>Total time: 23 hours</b>
