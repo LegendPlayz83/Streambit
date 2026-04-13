@@ -65,8 +65,37 @@ https://github.com/user-attachments/assets/81f87b0e-f5fe-4575-91ca-c8a29a3c5382
 Time taken: 3hours
 <b>**Total time: 10 hours**</b>
 
-<h5>Gotta assemble everything now</h5><br>
+<h5>Gotta assemble everything physically now</h5><br>
 <img width="1470" height="801" alt="Screenshot 2025-08-26 at 4 48 28 PM" src="https://github.com/user-attachments/assets/a7c23d15-0fe9-4a22-92d0-2fc387948749" />
 
 
+<h3>Physical assembly time!</h3>
+After getting all the components, I started by placing the diodes in place. In this, I had to bend each side of the diode to sit exactly in the centre of the logo, else it would have gone left or right while soldering.
+<img alt="Diodes place" src="https://cdn.hackclub.com/019d8656-d220-70f6-a709-3ab7bd97e31f/all%20diodes%20place%20streambit.jpeg">
+Time taken: 2hours
+<b>Total Time: 12 hours</b>
 
+<h4>Soldeing all diodes in place</h4>
+After the placement session of the diodes was done, I had to solder them to the PCB and cut their long wires left. 
+In this, I had to ensure that the diodes were placed correctly, else the resultant solder would have come out badly. 
+Soldered results:<br>
+Front
+<img alt="Diodes front" src="https://cdn.hackclub.com/019d865e-0fae-7f99-916a-e8c8da27c06f/all%20diodes%20soldered%20front.jpeg">
+Back
+<img alt="Diodes back" src="https://cdn.hackclub.com/019d865e-0772-7b27-b680-4e25bebdd1a4/all%20diodes%20soldered%20back%20.jpeg">
+Time taken: 1.5 hour
+<b>Total time: 13.5 hours</b>
+
+<h4>Soldering keys and joining stabs</h4>
+After placing and soldering all of the 1N4148 diodes, I now had to solder my Cherry MX keys to the PCB. It was soooo fun, and it consumed 4 meters of soldering wire
+Final look:<br>
+<img src="https://cdn.hackclub.com/019d8667-26d9-76fd-ad05-407571050f9d/final%20soldered%20streambit.jpg">
+Time taken: 3 hours
+<b>Total time: 16.5 hours</b>
+
+<h4>Solder Ras pi Pico</h4>
+After being done with the 1N4148 diodes and Cherry MX switches, it was time to solder the last thing, which was the Raspberry Pi Pico to the PCB. Remember, the Ras pi pico was SMD, and I used a soldering iron for this job.
+Final look:<br>
+<img src="https://cdn.hackclub.com/019d866c-2644-78a7-a38d-62bfbb2eeee1/IMG_20260413_160743.jpg">
+Time taken: 0.5 hours
+<b>Total time: 17 hours</b>
