@@ -106,3 +106,4 @@ After being done with the soldering and things, I now had to upload the code to 
 
 Time taken: 6 hours
 <b>Total time: 23 hours</b>
+psst: two keys were placed wrongly dont mind :)
