@@ -104,6 +104,6 @@ Time taken: 0.5 hours
 After being done with the soldering and things, I now had to upload the code to the Pico. I made many versions of the code coz the keys acted weird, rows and columns were wrongly arranged, and there were many bugs with the code.
 <img width="1398" height="406" alt="image" src="https://github.com/user-attachments/assets/361b628d-2540-4041-ab4a-85933e0df902" />
 
-Time taken: 6 hours
-<b>Total time: 23 hours</b>
+Time taken: 4 hours<br>
+<b>Total time: 21 hours</b>
 psst: two keys were placed wrongly dont mind :)
