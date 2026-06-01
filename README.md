@@ -3,9 +3,8 @@
 This is my 65% Keyboard, which I made from scratch with some help. It is named Streambit.<br>
 
 Physical view:
-![streambit-full](https://github.com/user-attachments/assets/16c65d54-3c5b-4a79-b7e2-c04124f91a29)
+<img width="5712" height="4284" alt="IMG_4968" src="https://github.com/user-attachments/assets/c7437497-114f-4f9d-989d-ab4053fcfc55" />
 
-Online view:
 <img width="1441" height="670" alt="Full-assembled" src="https://github.com/user-attachments/assets/6d73aa38-dd77-4b62-8312-c9b1ff60dcc2" />
 
 <br>
